@@ -1,10 +1,13 @@
 def my_hash
   my_amazing_hash = {
+
     "my_name" => "Jeremy"
     "my_wife's_name" => "Erin"
     "my_age" => 32
     "what_i_do" => "Programmer"
+
   }
+
 end
 
 
